@@ -1,0 +1,25 @@
+.loader {
+  background: url(../images/ajax-loader.gif) no-repeat left top;
+  height: 66px;
+  width: 66px;
+}
+
+.panel-body {
+  height: 530px;
+  position:relative;
+}
+
+.panel-body .loader {
+  margin: auto;
+  position: absolute;
+  top:0; 
+  bottom:0; 
+  left:0; 
+  right:0
+}
+
+.placeholder {
+  height: 500px;
+}
+
+
