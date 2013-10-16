@@ -12,4 +12,4 @@ Run `grunt jasmine`
 
 ## Running the Apllication
 
-Run `grunt connect` to start a local web server. The application will be available at http://localhost:3000/index.html
+Run `grunt connect` to start a local web server. The application will be available at [http://localhost:3000/index.html](http://localhost:3000/index.html)
