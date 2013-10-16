@@ -10,6 +10,6 @@ Node.js and Grunt must be installed to run unit tests and serve the application.
 
 Run `grunt jasmine`
 
-## Running the Apllication
+## Running the Application
 
 Run `grunt connect` to start a local web server. The application will be available at [http://localhost:3000/index.html](http://localhost:3000/index.html)
